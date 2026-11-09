@@ -1,0 +1,9 @@
+{
+  "name": "futbol-modo-carrera-server",
+  "version": "1.0.0",
+  "description": "Servidor del juego: sirve la página y hace de relay de salas por WebSocket (sin dependencias).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
